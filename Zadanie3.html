@@ -22,7 +22,8 @@
             xhr.open('GET','sprawdz.php?stan='+nazwa,true);
             xhr.onload = function(){
                 console.log(this.responseText);
-            }
+                document.getElementsByTagName("div")[0].innerHTML = this.responseText;
+                }
             xhr.send();
         }
     </script>
