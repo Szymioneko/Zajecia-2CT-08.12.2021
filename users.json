@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Szymon Nowok",
+        "email":"szymonowok005@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Michał Kowol",
+        "email":"ostrygrzes@gmail.com" 
+    },
+    {
+        "id":3,
+        "name":"Kamil Ogierman",
+        "email":"kamileczeczek@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"Ryszard Nowok",
+        "email":"ry120@gmail.com" 
+    }
+]
